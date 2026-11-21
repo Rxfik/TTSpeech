@@ -1,0 +1,19 @@
+# Environnements Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Modèles pré-entraînés et cache TTS
+tts_cache/
+*.pth
+*.pt
+*.ckpt
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+*.log
+
+# Système
+.DS_Store
+Thumbs.db
